@@ -147,5 +147,5 @@ If you have questions or find any bugs, feel free to reach out.
 
 ---
 
-Made by a fresher student learning Python  
-Created for college project - 2024
+Made by Jidnyesh Pujari  
+Created for college project - 2025
